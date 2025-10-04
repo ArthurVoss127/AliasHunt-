@@ -11,4 +11,16 @@ AliasHunt is a lightweight python based tool designed for username osint (open s
 - ✅ Easy-to-use Python CLI interface  
 - ✅ Generates a clean report of all discovered aliases  
 - ✅ Fast and efficient scanning  
-- ✅ Beginner-friendly and open-source  
+- ✅ Beginner-friendly and open-source
+
+  ## Installation (Termux):
+  termux-setup-storage
+  yes | pkg up
+  pkg i -y git python
+  git clone https://github.com/ArthurVoss127/AliasHunt-.git
+  cd AliasHunt-
+  chmod +x *
+  pip install pyfiglet
+  pip install requests
+  pip install termcolor
+  python AliasHunt_encoded.py 
