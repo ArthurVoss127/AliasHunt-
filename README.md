@@ -1,3 +1,6 @@
+
+![Alt Text](IMG_20251004_124500.jpg)
+
 # AliasHunt-
 AliasHunt is a lightweight python based tool designed for username osint (open source intelligence) investigation. It allows you to discover social media accounts, online profiles, and aliases associated with a particular username across multiple platforms.
 
