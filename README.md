@@ -14,13 +14,15 @@ AliasHunt is a lightweight python based tool designed for username osint (open s
 - ✅ Beginner-friendly and open-source
 
   ## Installation (Termux):
-  termux-setup-storage
-  yes | pkg up
-  pkg i -y git python
-  git clone https://github.com/ArthurVoss127/AliasHunt-.git
-  cd AliasHunt-
-  chmod +x *
-  pip install pyfiglet
-  pip install requests
-  pip install termcolor
-  python AliasHunt_encoded.py 
+  termux-setup-storage<br>
+  yes | pkg up<br>
+  pkg i -y git python<br>
+  git clone https://github.com/ArthurVoss127/AliasHunt-.git<br>
+  cd AliasHunt-<br>
+  chmod +x *<br>
+  pip install pyfiglet<br>
+  pip install requests<br>
+  pip install termcolor<br>
+  python AliasHunt_encoded.py <br>
+
+  <h2>Arthur@voss</h2>
